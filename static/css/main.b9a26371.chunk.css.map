@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACE,WACF,CAEA,KACE,gBAAiB,CACjB,iCACF,CACA,KACE,6BACF","file":"main.b9a26371.chunk.css","sourcesContent":["#root {\n  height: 100%;\n}\n\nbody {\n  min-height: 100vh;\n  min-height: -webkit-fill-available;\n}\nhtml {\n  height: -webkit-fill-available;\n}\n"]}
