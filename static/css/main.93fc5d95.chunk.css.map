@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACE,WACF,CAEA,KACE,kBACF","file":"main.93fc5d95.chunk.css","sourcesContent":["#root {\n  height: 100%;\n}\n\nbody {\n  background: #f7f7f7;\n}\n"]}
