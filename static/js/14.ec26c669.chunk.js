@@ -1,2 +1,0 @@
-(this.webpackJsonpgpl=this.webpackJsonpgpl||[]).push([[14],{385:function(t,e,s){"use strict";s.r(e);var i=s(3),c=s(390),n=s(186),r=s(1);e.default=function(t){var e=Object(r.f)();return Object(i.jsx)(c.a,{status:"404",title:"404",subTitle:"Sorry, the page you visited does not exist. Did you set a Redirect URL ?",extra:Object(i.jsx)(n.a,{onClick:function(){return e.push("/")},children:"Back Home"})})}}}]);
-//# sourceMappingURL=14.ec26c669.chunk.js.map
